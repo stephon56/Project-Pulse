@@ -27,9 +27,7 @@ The `ProjectPulseDemo.js` script is a simple demonstration of how project update
 1. Open `index.html` in a browser.
 2. The script will populate the project list dynamically.
 3. Modify `ProjectPulseDemo.js` to add new projects or statuses.
-
-## Screenshot
-![ProjectPulse Demo](assets/screenshot.png) *(replace with your screenshot if available)*
-
+   
 ## Live Demo
-*(Optional link to deployed version if you have it, e.g., Vercel/Netlify)*
+[![ProjectPulse Demo](assets/screenshot.png) *(replace with your screenshot if available)*
+](https://project-pulse-5fc27787.base44.app)
