@@ -1,9 +1,4 @@
-ProjectPulse/
-├── README.md
-├── ProjectPulseDemo.js
-├── index.html
-└── assets/
-    └── (optional images, logos, or screenshots)
+
 
 # ProjectPulse
 
