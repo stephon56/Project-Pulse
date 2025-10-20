@@ -24,5 +24,4 @@ The `ProjectPulseDemo.js` script is a simple demonstration of how project update
 3. Modify `ProjectPulseDemo.js` to add new projects or statuses.
    
 ## Live Demo
-[![ProjectPulse Demo](assets/screenshot.png) *(replace with your screenshot if available)*
 ](https://project-pulse-5fc27787.base44.app)
