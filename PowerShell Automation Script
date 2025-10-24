@@ -1,0 +1,5 @@
+Get-ComputerInfo | Select-Object CsName, WindowsVersion, OsArchitecture, CsManufacturer, CsModel, CsTotalPhysicalMemory
+Get-WmiObject Win32_LogicalDisk | Select-Object DeviceID, VolumeName, @{Name="Size(GB)";Expression={"{0:N1}" -f ($_.Size/1GB)}}
+$outputPath = "C:\Reports\SystemInventory.csv"
+Get-ComputerInfo | Export-Csv -Path $outputPath -NoTypeInformation
+
